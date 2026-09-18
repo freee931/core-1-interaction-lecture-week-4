@@ -13,3 +13,7 @@ h1 {
   letter-spacing: 2px;
   font-size: 100px;
 }
+
+img {
+  filter: drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.5));
+}
