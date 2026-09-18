@@ -5,3 +5,9 @@ body {
   font-size: 25px;
   color: darkgreen; 
 }
+
+h1 {
+  color: darkgreen;
+  font-size: 50px;
+  text-align: left;
+}
